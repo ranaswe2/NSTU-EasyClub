@@ -1,5 +1,5 @@
 # NSTU-EasyClub
-![Splash Screen](splash.png)
+![Splash Screen](images/splash.png)
 
 ## Overview
 Day by day university authorities all over the world are concering about

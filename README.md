@@ -25,8 +25,8 @@ View details on _User Manual.pdf_ file
 ### Start Window
 ![click](images/start.png)
 ### User Panel
-![click](images/user panel.png)
+![click1](images/user panel.png)
 ### Login for Result
-![click](images/semester result login.png)
+![click2](images/semester result login.png)
 ### Semester Result
-![click](images/semester result.png)
+![click3](images/semester result.png)

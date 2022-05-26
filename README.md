@@ -1,4 +1,4 @@
-# NSTU-EasyClub
+
 ![Splash Screen](images/splash.png)
 
 ## Overview
@@ -31,3 +31,7 @@ View details on _User Manual.pdf_ file
 ![click2](images/semesterresultlogin.png)
 ### Semester Result
 ![click3](images/semesterresult.png)
+
+```
+Thanks to visit the NSTU-EasyClub repository...
+```

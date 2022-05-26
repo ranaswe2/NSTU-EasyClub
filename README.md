@@ -19,3 +19,14 @@ Project Type : University Management System
 It’s a software which basically used for paying all kinds bill of Fees, publishing
 (Admin) or getting (Student) Semester Result, downloading Course Registration
 form, Attendence Report, Admit Card etc.
+```
+View details on _User Manual.pdf_ file
+```
+### Start Window
+![click](images/start.png)
+### User Panel
+![click](images/user panel.png)
+### Login for Result
+![click](images/semester result login.png)
+### Semester Result
+![click](images/semester result.png)

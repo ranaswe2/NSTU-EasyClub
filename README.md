@@ -22,8 +22,6 @@ form, Attendence Report, Admit Card etc.
 ```
 View details on _User Manual.pdf_ file
 ```
-### Start Window
-![click](images/start.png)
 ### User Panel
 ![click1](images/user panel.png)
 ### Login for Result

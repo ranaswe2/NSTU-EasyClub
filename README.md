@@ -1,5 +1,5 @@
 # NSTU-EasyClub
-![Splash Screen](https://drive.google.com/file/d/1N5GVhnwe9AwPdTz6XsLq1EkcFdjKklF_/view?usp=sharing/EClubGithub.png)
+![Splash Screen](https://drive.google.com/file/d/1N5GVhnwe9AwPdTz6XsLq1EkcFdjKklF_/view?raw=true)
 
 ## Overview
 Day by day university authorities all over the world are concering about

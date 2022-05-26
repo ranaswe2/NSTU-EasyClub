@@ -22,9 +22,12 @@ form, Attendence Report, Admit Card etc.
 ```
 View details on _User Manual.pdf_ file
 ```
+
+### Start Window
+![click](images/start.png)
 ### User Panel
-![click1](images/user panel.png)
+![click1](images/userpanel.png)
 ### Login for Result
-![click2](images/semester result login.png)
+![click2](images/semesterresultlogin.png)
 ### Semester Result
-![click3](images/semester result.png)
+![click3](images/semesterresult.png)

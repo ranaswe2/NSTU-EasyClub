@@ -1,5 +1,5 @@
 # NSTU-EasyClub
-The NSTU EasyClub project is based on an educational institute named Noakhali Science and Technology University (NSTU). This application is used to pay all types of fees and payments, complete course registration, get attendance reports, and publish the results of the semester final examination for the students. 
+![Splash Screen](https://drive.google.com/file/d/1N5GVhnwe9AwPdTz6XsLq1EkcFdjKklF_/view?usp=sharing)
 
 ## Overview
 Day by day university authorities all over the world are concering about
